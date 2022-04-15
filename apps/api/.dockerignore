@@ -1,0 +1,13 @@
+.env
+.git
+.github
+.gitignore
+.nvmrc
+.vscode
+artillery
+dist
+settings.json
+node_modules
+README.md
+start.sh
+SUPPORT.md
